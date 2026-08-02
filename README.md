@@ -25,16 +25,16 @@ Ovaj projekat je nastao iz stvarne potrebe na poslu, gde sam identifikovao probl
 ## Izgled u praksi
 
 **Artikal na stanju:**
-![Ima na stanju](screenshots/ima_na_stanju.png)
+![Ima na stanju](images/ima_na_stanju.png)
 
 **Artikal nema na stanju:**
-![Nema na stanju](screenshots/nema_na_stanju.png)
+![Nema na stanju](images/nema_na_stanju.png)
 
 **Artikal nije pronađen na Gembird sajtu:**
-![Ne postoji na sajtu](screenshots/ne_postoji_na_sajtu.png)
+![Ne postoji na sajtu](images/ne_postoji_na_sajtu.png)
 
 **Provera u toku:**
-![Provera u toku](screenshots/view.png)
+![Provera u toku](images/view.png)
 
 ## Instalacija (za testiranje)
 
