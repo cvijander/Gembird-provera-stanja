@@ -1,10 +1,10 @@
 # KP Gembird Provera Stanja
 
-Chrome ekstenzija koja automatski proverava dostupnu količinu i cenu artikla na sajtu **gembird.rs**, direktno dok se direktno pregleda oglas na **kupujemprodajem.com**.
+Chrome ekstenzija koja automatski proverava dostupnu količinu i cenu artikla na sajtu **gembird.rs**, direktno dok pregledaš oglas na **kupujemprodajem.com**.
 
 ## Problem koji rešava
 
-Kada prodajem/pratim proizvode preko KupujemProdajem oglasa, neophodno je otići na sajt Gembirda i proveriti da li je artikal (po EAN kodu) trenutno na stanju i po kojoj ceni. Ova ekstenzija to radi automatski - čim se na stranici prepozna EAN broj, u gornjem delu ekrana se pojavljuje boks sa trenutnim stanjem i cenom.
+Kada prodajem/pratim proizvode preko KupujemProdajem oglasa, često je potrebno ručno otići na Gembird sajt i proveriti da li je artikal (po EAN kodu) trenutno na stanju i po kojoj ceni. Ova ekstenzija to radi automatski - čim se na stranici prepozna EAN broj, u gornjem delu ekrana se pojavljuje boks sa trenutnim stanjem i cenom.
 
 ## Kako radi
 
@@ -20,7 +20,21 @@ Kada prodajem/pratim proizvode preko KupujemProdajem oglasa, neophodno je otići
 
 ## Napomena o razvoju
 
-Ovaj projekat je nastao iz stvarne potrebe na poslu, gde sam identifikovao problem i testirao rešenje u praksi. Pri pisanju samog koda koristio/la sam AI pomoć  da naučim kako funkcioniše Chrome Extension arhitektura, asinhroni JavaScript i komunikacija između skripti. Razumem logiku i strukturu projekta, i i dalje aktivno učim finije detalje JavaScript-a kao junior programer.
+Ovaj projekat je nastao iz stvarne potrebe na poslu, gde sam identifikovao problem i testirao rešenje u praksi. Pri pisanju samog koda koristio/la sam AI pomoć (uz mentorstvo kolege) da naučim kako funkcioniše Chrome Extension arhitektura, asinhroni JavaScript i komunikacija između skripti. Razumem logiku i strukturu projekta, i i dalje aktivno učim finije detalje JavaScript-a kao junior programer.
+
+## Izgled u praksi
+
+**Artikal na stanju:**
+![Ima na stanju](screenshots/ima_na_stanju.png)
+
+**Artikal nema na stanju:**
+![Nema na stanju](screenshots/nema_na_stanju.png)
+
+**Artikal nije pronađen na Gembird sajtu:**
+![Ne postoji na sajtu](screenshots/ne_postoji_na_sajtu.png)
+
+**Provera u toku:**
+![Provera u toku](screenshots/view.png)
 
 ## Instalacija (za testiranje)
 
