@@ -24,17 +24,23 @@ Ovaj projekat je nastao iz stvarne potrebe na poslu, gde sam identifikovao probl
 
 ## Izgled u praksi
 
+**Provera artikla:**
+![Provera artikla](images/proveraArtikla.png)
+
 **Artikal na stanju:**
-![Ima na stanju](images/ima_na_stanju.png)
+![Ima na stanju](images/imaNaStanju.png)
 
 **Artikal nema na stanju:**
-![Nema na stanju](images/nema_na_stanju.png)
+![Nema na stanju](images/nemaNaStanju.png)
 
 **Artikal nije pronađen na Gembird sajtu:**
-![Ne postoji na sajtu](images/ne_postoji_na_sajtu.png)
+![Ne postoji na sajtu](images/nePostojiViseNaSajtu.png)
 
-**Provera u toku:**
-![Provera u toku](images/view.png)
+**Artikal ne podudara cenu sa sajta tj prikazuje nam se i trenutna cena sa sajta :**
+![Ne podudaranje cena](images/nePodudaranjeCena.png)
+
+**Mala kolicina:**
+![Mala kolicina](images/malaKolicina.png)
 
 ## Instalacija (za testiranje)
 
