@@ -34,13 +34,16 @@ Ovaj projekat je nastao iz stvarne potrebe na poslu, gde sam identifikovao probl
 ![Nema na stanju](images/nemaNaStanju.png)
 
 **Artikal nije pronađen na Gembird sajtu:**
-![Ne postoji na sajtu](images/nePostojiViseNaSajtu.png)
+![Ne postoji na sajtu](images/nema%20u%20ponudi.jpg)
 
 **Artikal ne podudara cenu sa sajta tj prikazuje nam se i trenutna cena sa sajta :**
 ![Ne podudaranje cena](images/nePodudaranjeCena.png)
 
-**Mala kolicina:**
-![Mala kolicina](images/malaKolicina.png)
+**Mala količina: 0-5**
+![Mala kolicina](images/0%20do%205.jpg)
+
+**Srednja količina: 5-10**
+![Mala kolicina](images/0%20do%205.jpg)
 
 ## Instalacija (za testiranje)
 
