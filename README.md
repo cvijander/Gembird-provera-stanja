@@ -43,7 +43,7 @@ Ovaj projekat je nastao iz stvarne potrebe na poslu, gde sam identifikovao probl
 ![Mala kolicina](images/0%20do%205.jpg)
 
 **Srednja količina: 5-10**
-![Mala kolicina](images/0%20do%205.jpg)
+![Mala kolicina](images/5do10.jpg)
 
 ## Instalacija (za testiranje)
 
