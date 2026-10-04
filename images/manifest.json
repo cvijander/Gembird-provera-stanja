@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "KP Gembird Provera Stanja",
+  "version": "1.2",
+  "description": "Automatski proverava dostupnu količinu na Gembird sajtu preko background skripte.",
+  "permissions": [],
+  "host_permissions": [
+    "https://www.gembird.rs/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.kupujemprodajem.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
